@@ -1,0 +1,92 @@
+
+<html>
+
+    <head>
+        <title>Quero saber seus favoritos</title>
+    </head>
+    
+    <body>
+    
+        <form>
+            <table border='1' cellpadding='10' width='500'>
+                <tr>
+                    <td> <label>Qual a seu filme favorito?</label></td>
+                    <td> <input type="text" placeholder='Resposta' /></td>
+                </tr>
+    
+                <tr>
+                    <td>
+    
+                        <p>Qual prefere?</p>
+                    </td>
+                    <td>
+                        <input type="radio" id="assistir" name="fazer" value="assistir" checked>
+                        <label for="assistir">Assistir</label>
+    
+                        <input type="radio" id="jogar" name="fazer" value="jogar">
+                        <label for="jogar">jogar games</label></td>
+                </tr>
+                <tr>
+                    <td colspan='2' align="center">
+                        <input type="checkbox" id="geek" name="geek" value="geek">
+                        <label for="geek">Me considero otaku ou geek</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan='2' align="center">
+                        <label for="hoje">Uma data importante</label>
+                        <input type="date" id="hoje" name="hoje" value="" min="2000-01-01" max="2021-08-11">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan='2' align="center">
+                        <input type="range" id="volume" name="volume" min="0" max="10">
+                        <label for="volume">Nivel de ansiedade para o filme do Spider-man</label>
+                    </td>
+    
+                </tr>
+                <tr>
+                    <td>
+                        <label>Você prefere ver anime ou ler mangá?</label>
+                    </td>
+                    <td>
+                        <select>
+                            <option>Ler mangá</option>
+                            <option>Ver anime</option>
+                        </select>
+                    </td>
+                </tr>
+    
+               
+                <tr>
+                    <td>
+                        <label>Fale sobre seu jogo favorito</label>
+                    </td>
+                    <td>
+                        <textarea></textarea>
+                    </td>
+                </tr>
+    
+                <tr>
+                    <td>
+                        <label for="avatar">Escolha um wallapaper de algo que goste:</label></td>
+                    <td>
+                        <input type="file" id="avatar" name="avatar" accept="image/png, image/jpeg">
+                    </td>
+                </tr>
+            </table>
+    
+            <fieldset>
+                <legend>Clique para enviar </legend>
+                <table>
+                <tr>
+                    <td colspan='2' align="center">
+                        <input type="submit" value="Enviar">
+                    </td>
+                </tr>
+                </table>
+            </fieldset>
+        </form>
+    </body>
+    
+    </html>
