@@ -1,0 +1,18 @@
+1) A função desse site é bem executada?
+Sim, ela é bem executada mostrando aquilo que é prometido
+
+
+
+2) Você encontrou algum fime interessante que passe nesse teste? Informe.
+Cruella, de acordo com Remy(um dos avaliadores)o filme se encaixa no requisito porque existem 4 mulheres falantes neste filme, 2 das quais são as nossas personagens principais. Estella / Cruella, a Baronesa, Anita Darling e Catherine. Cruella, a Baronesa e Anita conversam regularmente, geralmente sobre moda.
+
+
+
+3) Você encontrou algum fime interessante que não passe nesse teste? Informe.
+A guerra do amanhã, ele falha em 2 de 3 teste pois apesaar de ter varias personagens femininas elas não iteragem etre si.
+
+
+
+4) Visualmente o site é fraco. Isso é uma afirmação.
+Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
+melhorar a iterface adicioando imagens e um fundo mais dinamico
